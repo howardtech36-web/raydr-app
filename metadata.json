@@ -1,0 +1,6 @@
+{
+  "name": "RAYDR - Mobile 3D GPS Navigation",
+  "description": "Mobile-native 3D driver navigation app with real-time road-snapped routing, live GPS tracking, ALPR radar, and Lake County hazard detection.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
